@@ -1,0 +1,19 @@
+
+  {
+    "title": "Contributor",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Contributor"
+        },
+        "description": {
+            "type": "string",
+            "description": "Contributor to the DAO Ecosystem"
+        },
+        "image": {
+            "type": "string",
+            "description": ""
+        }
+    }
+}

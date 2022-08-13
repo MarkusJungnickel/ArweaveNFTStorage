@@ -1,0 +1,19 @@
+
+  {
+    "title": "Member",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Member"
+        },
+        "description": {
+            "type": "string",
+            "description": "Member of the DAO Ecosystem"
+        },
+        "image": {
+            "type": "string",
+            "description": ""
+        }
+    }
+}

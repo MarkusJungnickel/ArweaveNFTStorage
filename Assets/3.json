@@ -1,0 +1,19 @@
+
+  {
+    "title": "Executive",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Executive"
+        },
+        "description": {
+            "type": "string",
+            "description": "Holder of executives permissions for the Spring DAO"
+        },
+        "image": {
+            "type": "string",
+            "description": ""
+        }
+    }
+}
